@@ -21,6 +21,7 @@ function App()
         </a>
       </header>   */}
       {/* <HOC4></HOC4> */}
+      <h1>Welcome</h1>
       <JSON1></JSON1>
           </div> 
   );
